@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/posts/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/posts/2018/07/hugo-blog-setup/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/about/</loc>
+    <lastmod>2018-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/tags/note/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/tags/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
