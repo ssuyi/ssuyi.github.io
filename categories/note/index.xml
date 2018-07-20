@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Somewhere</title>
-    <link>https://blog.ssuyi.tw/</link>
-    <description>Recent content on Somewhere</description>
+    <title>Note on Somewhere</title>
+    <link>https://blog.ssuyi.tw/categories/note/</link>
+    <description>Recent content in Note on Somewhere</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;copy; 2018 - H.S.</copyright>
     <lastBuildDate>Mon, 16 Jul 2018 16:33:08 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.ssuyi.tw/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ssuyi.tw/categories/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>&lt;p&gt;Blog 這件事大概是架了十個一篇文章都沒寫的狀態，忙碌和頹廢的生活哪能提起抒發心志的動力呢？
 身為一位軟體工程師偶爾想要記錄一下自己所踩過的地雷，寫下提醒給未來的自己別栽在同一個 bug 手上。
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blog.ssuyi.tw/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ssuyi.tw/about/</guid>
-      <description>雜記、程式
-hs `at` ssuyi.tw</description>
     </item>
     
   </channel>

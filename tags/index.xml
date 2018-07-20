@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>Intro</title>
-      <link>https://blog.ssuyi.tw/tags/intro/</link>
+      <title>Blog</title>
+      <link>https://blog.ssuyi.tw/tags/blog/</link>
       <pubDate>Mon, 16 Jul 2018 16:33:08 +0800</pubDate>
       
-      <guid>https://blog.ssuyi.tw/tags/intro/</guid>
+      <guid>https://blog.ssuyi.tw/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.ssuyi.tw/tags/hugo/</link>
+      <pubDate>Mon, 16 Jul 2018 16:33:08 +0800</pubDate>
+      
+      <guid>https://blog.ssuyi.tw/tags/hugo/</guid>
       <description></description>
     </item>
     

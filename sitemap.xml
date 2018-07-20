@@ -14,7 +14,12 @@
   
   <url>
     <loc>https://blog.ssuyi.tw/about/</loc>
-    <lastmod>2018-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/tags/blog/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,13 +28,19 @@
   </url>
   
   <url>
-    <loc>https://blog.ssuyi.tw/tags/intro/</loc>
+    <loc>https://blog.ssuyi.tw/tags/hugo/</loc>
     <lastmod>2018-07-16T16:33:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ssuyi.tw/tags/note/</loc>
+    <lastmod>2018-07-16T16:33:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ssuyi.tw/categories/note/</loc>
     <lastmod>2018-07-16T16:33:08+08:00</lastmod>
     <priority>0</priority>
   </url>
